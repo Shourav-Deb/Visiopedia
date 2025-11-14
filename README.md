@@ -24,7 +24,7 @@ The goal is to understand how well models learn visual features with labels vs w
 - 🔁 Checkpointing + Resumable Training  
 - ⚡ Fully reproducible on Kaggle  
 
-
+📌 Note: Some project files are not included in this repository because they belong to other collaborators. Only the work I personally completed is shared here.
 
 ## 📦 Dataset  
 **PriBeL — Primary Betel Leaf Dataset (1,800 images)**  
